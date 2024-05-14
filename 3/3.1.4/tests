@@ -1,0 +1,11 @@
+test #1
+input: 
+hello python
+i love you
+output: hello python i love you
+
+test #2
+input: 
+word1 word2
+word3 word4
+output: word1 word2 word3 word4
