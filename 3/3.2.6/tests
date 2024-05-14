@@ -1,0 +1,11 @@
+test #1
+input: Balakirev
+output: rev
+
+test #2
+input: Python
+output: hon
+
+test #3
+input: World!
+output: ld!
