@@ -1,0 +1,11 @@
+test #1
+input: I love Python
+output: 3
+
+test #2
+input: ffghf fhfgh gfhfgh gfhgfh gg g hg
+output: 7
+
+test #3
+input: ghfghgh
+output: 1
