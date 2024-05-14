@@ -1,0 +1,15 @@
+test #1
+input: My best friend is Python!
+output: My'best"friend"is"Python!
+
+test #2
+input: I love you
+output: I'love"you
+
+test #3
+input: hello python
+output: hello'python
+
+test #4
+input: hello
+output: hello
