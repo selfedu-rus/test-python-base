@@ -1,0 +1,11 @@
+test #1
+input: дядя
+output: True
+
+test #2
+input: мама
+output: False
+
+test #3
+input: Балакирев
+output: True
