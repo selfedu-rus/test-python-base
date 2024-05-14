@@ -1,0 +1,11 @@
+test #1
+input: Тверь Уфа Москва Казань
+output: True
+
+test #2
+input: Тверь Уфа Самара Казань
+output: False
+
+test #3
+input: Москва Уфа Самара Казань
+output: True
