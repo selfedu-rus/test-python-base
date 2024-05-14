@@ -1,0 +1,7 @@
+test #1
+input: I love
+output: Word 1: I | Word 2: love
+
+test #2
+input: hello python
+output: Word 1: hello | Word 2: python
