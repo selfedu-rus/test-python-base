@@ -1,0 +1,11 @@
+test #1
+input: hello python
+output: False False False True
+
+test #2
+input: autocar autocar
+output: True True False False
+
+test #3
+input: hello balak
+output: False False True False
