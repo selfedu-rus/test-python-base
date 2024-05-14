@@ -1,0 +1,15 @@
+test #1
+input: Hello Balakirev
+output: Balak
+
+test #2
+input: Hello Python
+output: Pytho
+
+test #3
+input: Do Car
+output: Ca
+
+test #4
+input: I love
+output: l
