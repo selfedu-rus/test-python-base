@@ -5,3 +5,11 @@ output: dobavlyaem-slagi-slug-k-url-adresam
 test #2
 input: formirovanie--url---adresov---v-shablonah
 output: formirovanie-url-adresov-v-shablonah
+
+test #3
+input: --ffhfh-ff---ddd
+output: -ffhfh-ff-ddd
+
+test #4
+input: -ffhfh-ff---ddd--
+output: -ffhfh-ff-ddd-
