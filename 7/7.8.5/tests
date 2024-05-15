@@ -1,0 +1,15 @@
+test #1
+input: abrakadabra
+output: True
+
+test #2
+input: python
+output: False
+
+test #3
+input: moskvara
+output: True
+
+test #4
+input: mama
+output: False
