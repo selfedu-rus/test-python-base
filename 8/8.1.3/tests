@@ -1,0 +1,11 @@
+test #1
+input: 8.11
+output: 8
+
+test #2
+input: -10.5
+output: -11
+
+test #3
+input: 2.3
+output: 2
