@@ -1,0 +1,11 @@
+test #1
+input: Python - это круто!
+output: python-eto-kruto!
+
+test #2
+input: Сергей Балакирев
+output: sergey-balakirev
+
+test #3
+input: Декораторы - это классно
+output: dekoratory-eto-klassno
