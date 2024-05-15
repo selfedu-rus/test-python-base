@@ -1,0 +1,11 @@
+test #1
+input: Я люблю Python!
+output: True
+
+test #2
+input: Уфа
+output: True
+
+test #3
+input: Мы
+output: False
