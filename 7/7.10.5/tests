@@ -1,0 +1,17 @@
+test #1
+input: 
+list
+-5 6 8 11 0 111 -456 3
+output: [-5, 6, 8, 11, 0, 111, -456, 3]
+
+test #2
+input: 
+tuple
+4 5 6 7 3 -5 6 -7
+output: (4, 5, 6, 7, 3, -5, 6, -7)
+
+test #3
+input: 
+list
+1 2 3
+output: [1, 2, 3]
