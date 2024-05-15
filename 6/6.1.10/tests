@@ -1,0 +1,55 @@
+test #1
+input: 
+ustanovka-i-zapusk-yazyka
+ustanovka-i-poryadok-raboty-pycharm
+peremennyye-operator-prisvaivaniya-tipy-dannykh
+arifmeticheskiye-operatsii
+ustanovka-i-poryadok-raboty-pycharm
+output: 
+HTML-страница для адреса ustanovka-i-zapusk-yazyka
+HTML-страница для адреса ustanovka-i-poryadok-raboty-pycharm
+HTML-страница для адреса peremennyye-operator-prisvaivaniya-tipy-dannykh
+HTML-страница для адреса arifmeticheskiye-operatsii
+Взято из кэша: HTML-страница для адреса ustanovka-i-poryadok-raboty-pycharm
+
+test #2
+input: 
+osnovy-raboty-so-strokami
+indeksy-i-srezy-strok
+algoritmy-obrabotki-spiskov
+osnovy-raboty-so-strokami
+algoritm-evklida
+instrument-list-comprehensions
+indeksy-i-srezy-strok
+dekoratory-funkciy-i-zamykaniya
+output: 
+HTML-страница для адреса osnovy-raboty-so-strokami
+HTML-страница для адреса indeksy-i-srezy-strok
+HTML-страница для адреса algoritmy-obrabotki-spiskov
+Взято из кэша: HTML-страница для адреса osnovy-raboty-so-strokami
+HTML-страница для адреса algoritm-evklida
+HTML-страница для адреса instrument-list-comprehensions
+Взято из кэша: HTML-страница для адреса indeksy-i-srezy-strok
+HTML-страница для адреса dekoratory-funkciy-i-zamykaniya
+
+test #3
+input: 
+osnovy-raboty-so-strokami
+indeksy-i-srezy-strok
+algoritmy-obrabotki-spiskov
+osnovy-raboty-so-strokami
+algoritm-evklida
+instrument-list-comprehensions
+indeksy-i-srezy-strok
+dekoratory-funkciy-i-zamykaniya
+osnovy-raboty-so-strokami
+output: 
+HTML-страница для адреса osnovy-raboty-so-strokami
+HTML-страница для адреса indeksy-i-srezy-strok
+HTML-страница для адреса algoritmy-obrabotki-spiskov
+Взято из кэша: HTML-страница для адреса osnovy-raboty-so-strokami
+HTML-страница для адреса algoritm-evklida
+HTML-страница для адреса instrument-list-comprehensions
+Взято из кэша: HTML-страница для адреса indeksy-i-srezy-strok
+HTML-страница для адреса dekoratory-funkciy-i-zamykaniya
+Взято из кэша: HTML-страница для адреса osnovy-raboty-so-strokami
