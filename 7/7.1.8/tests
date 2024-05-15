@@ -1,0 +1,31 @@
+test #1
+input: sc_lib@list.ru
+output: ДА
+
+test #2
+input: sc_lib123@list.ru
+output: ДА
+
+test #3
+input: маил@что.ru
+output: НЕТ
+
+test #4
+input: !@dsf@mm.com
+output: НЕТ
+
+test #5
+input: S_BALAK@mail77.ru
+output: ДА
+
+test #6
+input: sc_lib@list_ru
+output: НЕТ
+
+test #7
+input: sc_lib_list.ru
+output: НЕТ
+
+test #8
+input: привет@точ_ка.py
+output: НЕТ
