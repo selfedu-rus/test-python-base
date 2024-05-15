@@ -1,0 +1,19 @@
+test #1
+input: Хижина изба машина и снова хижина машина
+output: 4
+
+test #2
+input: Python is best
+output: 2
+
+test #3
+input: как я вышел как я ушел
+output: 3
+
+test #4
+input: идти вперед давай
+output: 3
+
+test #5
+input: еще один тест номер пять
+output: 5
