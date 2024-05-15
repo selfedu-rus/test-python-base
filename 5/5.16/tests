@@ -1,0 +1,11 @@
+test #1
+input: osnovnye--metody-----slovarey
+output: osnovnye-metody-slovarey
+
+test #2
+input: peremennyye-operator----prisvaivaniya--tipy---dannykh
+output: peremennyye-operator-prisvaivaniya-tipy-dannykh
+
+test #3
+input: funkciya------enumerate--primery---ispolzovaniya
+output: funkciya-enumerate-primery-ispolzovaniya
