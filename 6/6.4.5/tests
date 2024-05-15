@@ -1,0 +1,15 @@
+test #1
+input: Python 3.9.11 - best language!
+output: 1 3 9
+
+test #2
+input: C++ v. 0.22.12
+output: 0 1 2
+
+test #3
+input: Java 1.98.8
+output: 1 8 9
+
+test #4
+input: Python - best language!
+output: НЕТ
