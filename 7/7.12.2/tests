@@ -1,0 +1,11 @@
+test #1
+input: Декораторы - это классно!
+output: <div>декораторы - это классно!</div>
+
+test #2
+input: Сергей Балакирев
+output: <div>сергей балакирев</div>
+
+test #3
+input: Python
+output: <div>python</div>
