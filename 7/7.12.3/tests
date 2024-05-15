@@ -1,0 +1,11 @@
+test #1
+input: Декораторы - это круто!
+output: dekoratory-eto-kruto-
+
+test #2
+input: Python - is the best language
+output: python-is-the-best-language
+
+test #3
+input: Балакирев
+output: balakirev
