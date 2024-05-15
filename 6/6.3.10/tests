@@ -1,0 +1,14 @@
+test #1
+input: 
+Главная home
+Python learn-python
+Java learn-java
+PHP learn-php
+output: (('Главная', 'home'), ('Python', 'learn-python'), ('Java', 'learn-java'), ('PHP', 'learn-php'))
+
+test #2
+input: 
+about to-about
+home main
+Добавить add-page
+output: (('about', 'to-about'), ('home', 'main'), ('Добавить', 'add-page'))
