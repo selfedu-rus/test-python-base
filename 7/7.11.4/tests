@@ -1,0 +1,17 @@
+test #1
+input: 
+house river tree car
+дом река дерево машина
+output: ('car', 'машина') ('house', 'дом') ('river', 'река') ('tree', 'дерево')
+
+test #2
+input: 
+house tree car mouse man
+дом дерево машина мышь человек
+output: ('car', 'машина') ('house', 'дом') ('man', 'человек') ('mouse', 'мышь') ('tree', 'дерево')
+
+test #3
+input: 
+house tree
+дом дерево
+output: ('house', 'дом') ('tree', 'дерево')
