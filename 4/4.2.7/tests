@@ -1,0 +1,31 @@
+test #1
+input: 121
+output: вторник
+
+test #2
+input: 100
+output: вторник
+
+test #3
+input: 55
+output: суббота
+
+test #4
+input: 54
+output: пятница
+
+test #5
+input: 1
+output: понедельник
+
+test #6
+input: 3
+output: среда
+
+test #7
+input: 4
+output: четверг
+
+test #8
+input: 6
+output: суббота
