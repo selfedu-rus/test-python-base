@@ -1,0 +1,16 @@
+test #1
+input: 
+Города=about-cities
+Машины=read-of-cars
+Самолеты=airplanes
+output: 
+Архив Главная Города Машины Новости Самолеты
+about-cities airplanes archive home news read-of-cars
+
+test #2
+input: 
+Корабли=ships-read
+Страны=countries-about
+output: 
+Архив Главная Корабли Новости Страны
+archive countries-about home news ships-read
