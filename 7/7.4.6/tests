@@ -1,0 +1,11 @@
+test #1
+input: Python is the best!
+output: 
+<DIV>Python is the best!</DIV>
+<div>Python is the best!</div>
+
+test #2
+input: Москва - это мегаполис
+output: 
+<DIV>Москва - это мегаполис</DIV>
+<div>Москва - это мегаполис</div>
