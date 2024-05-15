@@ -1,0 +1,21 @@
+test #1
+input: 
+django chto  eto takoe    poryadok ustanovki
+model mtv   marshrutizaciya funkcii  predstavleniya
+marshrutizaciya  obrabotka isklyucheniy       zaprosov perenapravleniya
+output: 
+django-chto-eto-takoe-poryadok-ustanovki
+model-mtv-marshrutizaciya-funkcii-predstavleniya
+marshrutizaciya-obrabotka-isklyucheniy-zaprosov-perenapravleniya
+
+test #2
+input: 
+opredelenie  modeley   migracii sozdanie vypolnenie
+crud      osnovy         orm po rabote s  modelyami
+django-shablony  templates-nachalo
+podklyuchenie-staticheskih-faylov-filtry-shablonov
+output: 
+opredelenie-modeley-migracii-sozdanie-vypolnenie
+crud-osnovy-orm-po-rabote-s-modelyami
+django-shablony-templates-nachalo
+podklyuchenie-staticheskih-faylov-filtry-shablonov
