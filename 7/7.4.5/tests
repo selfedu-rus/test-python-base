@@ -1,0 +1,11 @@
+test #1
+input: Работаем с функциями
+output: 
+<h1>Работаем с функциями</h1>
+<div>Работаем с функциями</div>
+
+test #2
+input: Python is the best!
+output: 
+<h1>Python is the best!</h1>
+<div>Python is the best!</div>
