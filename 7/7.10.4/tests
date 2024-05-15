@@ -1,0 +1,17 @@
+test #1
+input: 
+div
+Сергей Балакирев
+output: <div>Сергей Балакирев</div>
+
+test #2
+input: 
+p
+Hello Python
+output: <p>Hello Python</p>
+
+test #3
+input: 
+span
+Hello Python
+output: <span>Hello Python</span>
