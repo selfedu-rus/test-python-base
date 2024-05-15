@@ -1,0 +1,23 @@
+test #1
+input: Лучший курс по Python!
+output: 
+luchshiy-kurs-po-python!
+luchshiy+kurs+po+python!
+
+test #2
+input: Я люблю Python
+output: 
+ya-lyublyu-python
+ya+lyublyu+python
+
+test #3
+input: Это очень круто
+output: 
+eto-ochen-kruto
+eto+ochen+kruto
+
+test #4
+input: Лайк и подписка
+output: 
+layk-i-podpiska
+layk+i+podpiska
