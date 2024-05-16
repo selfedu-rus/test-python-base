@@ -1,0 +1,20 @@
+test #1
+input: 
+# x o
+x # x
+o o #
+output: True
+
+test #2
+input: 
+o x o
+x x x
+o o x
+output: True
+
+test #3
+input: 
+x # o
+x o x
+x x o
+output: True
