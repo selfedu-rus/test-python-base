@@ -1,0 +1,11 @@
+test #1
+input: abc@it.ru dfd3.ru@mail biba123@list.ru sc_lib@list.ru $fg9@fd.com
+output: abc@it.ru biba123@list.ru sc_lib@list.ru
+
+test #2
+input: sc_lib@list.ru abc34@it.com &dfd3.ru@mail biba123.ru@list
+output: sc_lib@list.ru abc34@it.com
+
+test #3
+input: тест_почта@mail.ru test_post@mail.ru test_post@мэил.ру
+output: test_post@mail.ru
