@@ -1,0 +1,11 @@
+test #1
+input: ѩкю[щюлцхZ
+output: Все верно!
+
+test #2
+input: Ѥуйхц
+output: Питон
+
+test #3
+input: Ѫырысулющ
+output: Балакирев
