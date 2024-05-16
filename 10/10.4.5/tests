@@ -1,0 +1,47 @@
+test #1
+input: BOTTOM
+output: Команда bottom
+
+test #2
+input: Bottom
+output: Команда bottom
+
+test #3
+input: bottom
+output: Команда bottom
+
+test #4
+input: Top
+output: Команда top
+
+test #5
+input: TOP
+output: Команда top
+
+test #6
+input: top
+output: Команда top
+
+test #7
+input: left
+output: Команда left
+
+test #8
+input: Left
+output: Команда left
+
+test #9
+input: LEFT
+output: Команда left
+
+test #10
+input: RIGHT
+output: Команда right
+
+test #11
+input: Right
+output: Команда right
+
+test #12
+input: right
+output: Команда right
