@@ -7,7 +7,7 @@ input: 77
 output: 64 8 4 1
 
 test #3
-input: 778
+input: 770
 output: 64 64 64 64 64 64 64 64 64 64 64 64 2
 
 test #4
