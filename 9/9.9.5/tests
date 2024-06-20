@@ -10,7 +10,7 @@ input:
 o x o
 x x x
 o o x
-output: True
+output: False
 
 test #3
 input: 
