@@ -41,3 +41,7 @@ output: НЕТ
 test #11
 input: +7(1!3)656-66-77
 output: НЕТ
+
+test #12
+input: +7(xxx)xxx-xx-xx
+output: НЕТ
