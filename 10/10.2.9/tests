@@ -21,3 +21,7 @@ output: НЕТ
 test #6
 input: 16
 output: НЕТ
+
+test #7
+input: 32
+output: ДА
