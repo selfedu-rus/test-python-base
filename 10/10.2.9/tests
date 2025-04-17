@@ -17,3 +17,11 @@ output: ДА
 test #5
 input: 0
 output: НЕТ
+
+test #6
+input: 32
+output: ДА
+
+test #7
+input: 2
+output: ДА
