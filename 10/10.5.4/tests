@@ -17,3 +17,7 @@ output: No
 test #5
 input: 5, Яворски Михаил, Python. Лучшие практики и инструменты, 1500.1, 2021
 output: Yes
+
+test #6
+input: 3, Бейдер Дэн, Книга, 65.43
+output: Yes
