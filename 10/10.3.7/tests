@@ -3,5 +3,5 @@ input: 10
 output: True
 
 test #2
-input: 7
+input: 8
 output: True
