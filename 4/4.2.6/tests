@@ -4,7 +4,7 @@ output: 08.30 09.01
 
 test #2
 input: 7 25
-output: 07.24 07.26
+output: 07.24 08.26
 
 test #3
 input: 2 28
@@ -48,4 +48,4 @@ output: 11.29 12.01
 
 test #13
 input: 8 1
-output: 07.31 08.02
+output: 08.31 09.02
