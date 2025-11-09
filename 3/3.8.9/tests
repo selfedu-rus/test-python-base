@@ -7,9 +7,9 @@ input: 2 3 5 4 2 2 5
 output: 3
 
 test #3
-input: 22 3 5 2 4 2 2 5
-output: 3
+input: 2 2 3 5 2 4 2 2 5
+output: 5
 
 test #4
-input: 22 3 5 22 4 2 2 5
-output: 2
+input: 4 4 3 5 4 3 3 5
+output: 0
