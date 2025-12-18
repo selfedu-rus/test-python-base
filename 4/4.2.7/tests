@@ -29,3 +29,7 @@ output: четверг
 test #8
 input: 6
 output: суббота
+
+test #9
+input: 0
+output: воскресенье
