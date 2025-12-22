@@ -31,5 +31,5 @@ input: 6
 output: суббота
 
 test #9
-input: 0
+input: 7
 output: воскресенье
